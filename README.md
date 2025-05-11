@@ -1,4 +1,3 @@
-# Satellite_Anomaly_Dashboard-_GitHub
 # Satellite Anomaly Detection Dashboard
 
 A web-based interactive dashboard built with Streamlit for analyzing and detecting anomalies in satellite telemetry data.
