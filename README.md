@@ -1,4 +1,4 @@
-# Satellite Anomaly Detection Dashboard
+# Satellite Telemetry Anomaly Detection & Forecasting Dashboard
 
 A web-based interactive dashboard built with Streamlit for analyzing and detecting anomalies in satellite telemetry data.
 
